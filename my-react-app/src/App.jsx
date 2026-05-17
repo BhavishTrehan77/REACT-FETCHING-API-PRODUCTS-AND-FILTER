@@ -35,6 +35,7 @@ function App() {
           <img src={product.thumbnail} alt={product.title} />
           <h3>{product.title}</h3>
           <h4>{product.price}</h4>
+          <button>ADD TO CART</button>
         </div>
       );
     })}
