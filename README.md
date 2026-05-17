@@ -1,16 +1,17 @@
-# Product Search App
+# React Product Search App
 
-Simple React app that fetches product data from an API and displays products with image, title, and price.
+A simple React application that fetches products from an API and allows users to search products in real time.
 
 ## Features
 
 - Fetch products using API
-- Display product image and price
-- Search products by name
-- Real-time filtering
+- Display product image, title, and price
+- Search products dynamically
+- Add to Cart button
 - Loading state handling
+- Responsive product cards
 
-## Tech Used
+## Tech Stack
 
 - React
 - JavaScript
@@ -19,13 +20,14 @@ Simple React app that fetches product data from an API and displays products wit
 
 ## Concepts Practiced
 
-- useEffect
 - useState
+- useEffect
 - API Fetching
 - Search Filtering
 - Conditional Rendering
 - Array map()
 - Array filter()
+- Event Handling
 
 ## API Used
 
